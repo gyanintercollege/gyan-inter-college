@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<title>Online Admission Form</title>
+<style>
+body{font-family:Arial;background:#f2f2f2;}
+form{background:#fff;padding:20px;width:350px;margin:auto;border-radius:8px;}
+input,select{width:100%;padding:8px;margin:8px 0;}
+button{background:#003366;color:white;padding:10px;border:none;width:100%;}
+</style>
+</head>
+<body>
+
+<form action="https://formsubmit.co/yourgmail@gmail.com" method="POST">
+<h2>Online Admission Form</h2>
+
+<input type="text" name="Student Name
